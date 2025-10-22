@@ -40,10 +40,8 @@ It analyzes sales and profit data across different products, categories, and reg
 
 ## 🏷 Author
 Layla Ismail
-Computer Science Student 💻  
-Interested in Data Analysis & AI  
-
-📧 Email: [laylaelkordy@gmail.com](mailto:laylaelkordy@gmail.com)  
+ 
+ 📧 Email: [laylaelkordy@gmail.com](mailto:laylaelkordy@gmail.com)  
 🔗 LinkedIn: [Layla Ismail](https://www.linkedin.com/in/layla-ismail-3b28a3322)  
 
 ---
